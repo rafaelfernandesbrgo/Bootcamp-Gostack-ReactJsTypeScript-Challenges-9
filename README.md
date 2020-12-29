@@ -1,0 +1,2 @@
+# Bootcamp-Gostack-ReactJsTypeScript-Challenges-9
+  This is the BootCamp Rocketseat challenge number 9, an application was created in ReactJS and Typescript using various technologies and concepts such as Operations CRUD, Hooks (useCallBack, useEffect, useState) Typescript, typing, Componentization, properties, Modal, Styled-components, State management, Icons with FeatherIcon, Axios and requests with the Fake API rest and Unitary tests.
