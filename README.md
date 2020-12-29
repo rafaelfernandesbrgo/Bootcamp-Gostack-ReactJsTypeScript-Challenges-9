@@ -26,7 +26,7 @@ Instructions for use:
     yarn
  
  ```
-* There is a dependency in package.json called json-server, there is also a file called server.json that contains the data for a / products route. To run this server, type:
+* There is a dependency in package.json called json-server, there is also a file called server.json that contains the data for a /foods route. To run this server, type:
 ```
 
     yarn json-server server.json -p 3333
@@ -59,7 +59,7 @@ Digite o comando abaixo para instalar as depencias do projeto:
     yarn
  
  ```
-Há no package.json uma dependência chamada json-server, existe também um arquivo chamado server.json que contém os dados para uma rota /products. Para executar esse servidor digite:
+Há no package.json uma dependência chamada json-server, existe também um arquivo chamado server.json que contém os dados para uma rota /foods. Para executar esse servidor digite:
 ```
 
     yarn json-server server.json -p 3333
