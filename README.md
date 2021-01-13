@@ -65,3 +65,9 @@ Há no package.json uma dependência chamada json-server, existe também um arqu
     yarn json-server server.json -p 3333
  
 ```
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactJsTypeScript-Challenges-9/blob/main/arts/Art%20Go%20Restaurant%20%20web%20%20(1).png)
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactJsTypeScript-Challenges-9/blob/main/arts/Art%20Go%20Restaurant%20%20web%20%20(2).png)
+
+
